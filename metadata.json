@@ -1,0 +1,6 @@
+{
+  "name": "Laundry Management System",
+  "description": "A comprehensive Laundry Management Admin Portal for customer management, order tracking, cloth items, services, invoices, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
